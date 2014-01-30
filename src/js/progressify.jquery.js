@@ -1,4 +1,4 @@
-(function( $ ) {
+(function( $, window, document, undefined ) {
 
 	// Plugin declaration
 	$.fn.progressify = function( options ) {
@@ -72,4 +72,4 @@
 
 	};
 
-}( jQuery ));
+}( jQuery, window, document ));
