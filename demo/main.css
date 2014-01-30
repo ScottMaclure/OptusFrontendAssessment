@@ -1,1 +1,0 @@
-.bar{position:relative;width:100%;border:1px solid #333;overflow:hidden;height:50px;line-height:50px;text-align:center}.bar div{position:absolute;top:0;left:0;height:100%;background:#aad;z-index:-1;-webkit-transition:width 0.3s;transition:width 0.3s;-webkit-box-shadow:inset 0 75px 50px -50px #e1e1f3;box-shadow:inset 0 75px 50px -50px #e1e1f3}.bar div.over100{background:#F55}
