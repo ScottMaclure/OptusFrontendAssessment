@@ -8,7 +8,7 @@
 
 		// Each to loop on matching element + Return to maintain chainability
 		return this.each(function(index) {
-			console.log('Bar found', index)
+			console.log('Bar found', index);
 			
 		});
 
