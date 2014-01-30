@@ -83,7 +83,7 @@ module.exports = (grunt) ->
 			html:
 				files: ['demo/index.html']
 			javascript:
-				files: 'dev/js/*.js'
+				files: 'src/js/progressify.jquery.js'
 				tasks: ['jshint', 'uglify', 'copy']
 
 
